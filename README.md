@@ -1,6 +1,6 @@
 # Relazione sul cifrario di Cesare in C# WPF
 
-## Benkaref, Ravetti, Sileo, inglese, Quaglino, Manfrè, Alberto.
+## Benkaref, Ravetti, Sileo, Inglese, Quaglino, Manfrè, Alberto.
 
 ## Introduzione
 
