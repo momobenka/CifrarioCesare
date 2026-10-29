@@ -1,5 +1,7 @@
 # Relazione sul cifrario di Cesare in C# WPF
 
+##Benkaref, Ravetti, Sileo, inglese, Quaglino, Manfrè, Alberto.
+
 ## Introduzione
 
 Il progetto consiste nella realizzazione di un'applicazione desktop in C# utilizzando WPF, che permette di crittografare e decrittografare messaggi attraverso il cifrario di Cesare. Si tratta di un metodo di crittografia molto semplice, nel quale ogni lettera viene sostituita con un'altra lettera dell'alfabeto, spostata di un numero di posizioni stabilito da una chiave numerica.
